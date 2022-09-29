@@ -1,24 +1,24 @@
 # Competitive-Programming:
 
-## 🔰C-PROGRAMMING:
+## 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 C-Programming : https://github.com/bappasahabapi/C-programmin
 ### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
 ---
-## 🔰CPP-PROGRAMMING:
+## 🔰ᑕᑭᑭ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 Cpp-Code : https://github.com/bappasahabapi/STL_PROGRAMS
 ### 🚀 Cpp_Programs : https://github.com/bappasahabapi/cpp_program
 ---
-## 🔰STL-PROGRAMMING:
+## 🔰STᒪ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 STL-Program : https://github.com/bappasahabapi/STL_PROGRAMS
 ---
-## 🔰JAVA-PROGRAMMING:
+## 🔰ᒍᗩᐯᗩ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 java_netbeans : https://github.com/bappasahabapi/java_netbeans
 ---
-## 🔰JAVA-SCRIPT-PROGRAMMING:
+## 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
 ---
-## PYTHON-PROGRAMMING:
+## ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
 ---
 
