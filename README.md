@@ -1,5 +1,5 @@
-![Github Banner](bappa.png)
-####  There is a dreamy boy whose name is Bappa .
+ There is a dreamy boy whose name is Bappa .![Github Banner](rsz_bappa.png)
+#### 
 
 # Competitive-Programming:
 
