@@ -6,6 +6,7 @@
 ### Cpp_Programs : https://github.com/bappasahabapi/cpp_program
 ### java_netbeans : https://github.com/bappasahabapi/java_netbeans
 ###  Python-series: https://github.com/bappasahabapi/python-series-01
+### Prolog-Code-Gitbash : https://github.com/bappasahabapi/prologcode
 
 ### Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
 ### URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
