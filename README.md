@@ -18,7 +18,7 @@
 ### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
 ---
-## ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+## 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
 ---
 
