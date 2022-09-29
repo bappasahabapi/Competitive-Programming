@@ -24,12 +24,17 @@
 
 
 
+
+
+
 ### 💡🚀 Prolog-Code-Gitbash : https://github.com/bappasahabapi/prologcodeRMS
 ---
 ### 💡🚀 RMSTU-LAB-CODE-python: https://github.com/bappasahabapi/rmstu-lab-code
 ---
-
-### 💡 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
 ---
-### 💡 URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
+
+# 🟩  Algorithm & Online Judge:
+## 🔴 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
+---
+### 🟡 URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
 ---
