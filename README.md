@@ -33,7 +33,7 @@
 ---
 ---
 
-# 🟩  Algorithm & Online Judge:
+# 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
 ## 🔴 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
 ---
 ### 🟡 URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
