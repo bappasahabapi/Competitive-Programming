@@ -1,6 +1,6 @@
-
+![Github Banner](bappa.png)
 ####  There is a dreamy boy whose name is Bappa .
-#![bappa.png](https://bappa.png)
+
 # Competitive-Programming:
 
 ## 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
